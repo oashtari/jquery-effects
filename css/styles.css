@@ -2,9 +2,9 @@ h4 {
   display: none;
 }
 
-#cat{
-  height: 500px;
-  width: 720px;
+.size {
+  height: 250px;
+  width: 325px;
 }
 
 .bodyClass {
